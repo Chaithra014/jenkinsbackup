@@ -1,0 +1,35 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<slave>
+  <temporaryOfflineCause class="hudson.slaves.OfflineCause$UserCause">
+    <timestamp>1714744193564</timestamp>
+    <description>
+      <holder>
+        <owner>hudson.slaves.Messages</owner>
+      </holder>
+      <key>SlaveComputer.DisconnectedBy</key>
+      <args>
+        <string>admin</string>
+        <string></string>
+      </args>
+    </description>
+    <userId>admin</userId>
+  </temporaryOfflineCause>
+  <name>node2.1</name>
+  <description>c projects</description>
+  <remoteFS>/home/ubuntu/</remoteFS>
+  <numExecutors>1</numExecutors>
+  <mode>NORMAL</mode>
+  <retentionStrategy class="hudson.slaves.RetentionStrategy$Always"/>
+  <launcher class="hudson.plugins.sshslaves.SSHLauncher" plugin="ssh-slaves@2.948.vb_8050d697fec">
+    <host>43.204.233.213</host>
+    <port>22</port>
+    <credentialsId>521dc0f7-c87d-493d-bccc-b26731eca5ac</credentialsId>
+    <launchTimeoutSeconds>60</launchTimeoutSeconds>
+    <maxNumRetries>10</maxNumRetries>
+    <retryWaitTime>15</retryWaitTime>
+    <sshHostKeyVerificationStrategy class="hudson.plugins.sshslaves.verifiers.NonVerifyingKeyVerificationStrategy"/>
+    <tcpNoDelay>true</tcpNoDelay>
+  </launcher>
+  <label>dev</label>
+  <nodeProperties/>
+</slave>

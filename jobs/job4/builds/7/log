@@ -1,0 +1,8 @@
+Started by user [8mha:////4OVWp0zmroWZP4IbLQGE1jY1Dn1Cbi3kZzJjB1pQNacdAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZu/dLi1CL9xJTczDwA4LbuW8AAAAA=[0mChaithra M R
+Running as SYSTEM
+Building remotely on [8mha:////4Dhp2Kd9r4pU57Wo2mBQ6JkGwnkiskx8DivsHrKRFw7UAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgYx/eT83ILSktQi/eKcxLJUw9I8oHONAB/aez/LAAAA[0mslave1unode2 (dev) in workspace /home/jenkins/workspace/job4
+[job4] $ /bin/sh -xe /tmp/jenkins15088820479107461653.sh
++ cd /home/jenkins/sum.sh 4 8
+/tmp/jenkins15088820479107461653.sh: 2: cd: can't cd to /home/jenkins/sum.sh
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

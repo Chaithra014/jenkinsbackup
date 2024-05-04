@@ -1,0 +1,2 @@
+SSHLauncher{host='172.31.15.63', port=22, credentialsId='521dc0f7-c87d-493d-bccc-b26731eca5ac', jvmOptions='', javaPath='', prefixStartSlaveCmd='', suffixStartSlaveCmd='', launchTimeoutSeconds=60, maxNumRetries=10, retryWaitTime=15, sshHostKeyVerificationStrategy=hudson.plugins.sshslaves.verifiers.ManuallyTrustedKeyVerificationStrategy, tcpNoDelay=true, trackCredentials=true}
+[05/04/24 19:32:18] [SSH] Opening SSH connection to 172.31.15.63:22.

@@ -1,0 +1,8 @@
+Started by user [8mha:////4OVWp0zmroWZP4IbLQGE1jY1Dn1Cbi3kZzJjB1pQNacdAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyeEgZu/dLi1CL9xJTczDwA4LbuW8AAAAA=[0mChaithra M R
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/job4
+[job4] $ /bin/sh -xe /tmp/jenkins5803847079369998191.sh
++ /home/jenkins/sum.sh 6 5
+/tmp/jenkins5803847079369998191.sh: 2: /home/jenkins/sum.sh: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
